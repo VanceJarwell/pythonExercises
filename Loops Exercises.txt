@@ -1,0 +1,7 @@
+1. Write a function that takes a list as a parameter and returns the number of items in the list. Do NOT use the built-in len() or count() function.
+
+2. Write a function that takes a list of integers as a parameter and returns the max element in the list. Do NOT use the built-in max() function.
+
+3. Write a function that takes a list as a parameter and returns the reversed list. Do NOT use the built-in reverse() function.
+
+4. Write a function that takes a list of integers as a parameter and returns the sum of the list. Do NOT use the built-in sum() function.
