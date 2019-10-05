@@ -1,0 +1,21 @@
+#reverse
+def reverse(data_list):
+    length = len(data_list)
+    s = length
+
+    new_list = [None]*length
+
+    for item in data_list:
+        s = s - 1
+        new_list[s] = item
+    return new_list
+
+#accept list input
+a = [int(x) for x in input().split()]
+
+#sum
+def int_list(grades):   #list is passed to the function
+    summ = 0 
+    for n in grades:
+        summ += n
+        print summ
